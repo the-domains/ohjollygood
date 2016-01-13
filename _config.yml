@@ -1,0 +1,28 @@
+name: ohjollygood
+favicon: null
+layout_spectrum: 0.39090327196754515
+typography_spectrum: 0.1020457383710891
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.6040991917252541
+  lightness: 0.6647653763648123
+  saturation: 0.4083902675192803
+  rhythmicContrast: 0.6269379197619855
+purpose: []
